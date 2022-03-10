@@ -1,5 +1,6 @@
 # React-Js-List
 React List for Bookstore
+List merupakan sebuah daftar kumpulan data yang biasanya berasal dari sebuah array.
 
 screenshot project :
 
